@@ -1,3 +1,7 @@
+<p align="left">
+  <img alt="Badge" src="Badge-Conversor.png" width="50%">
+</p>
+
 ## 🚀 Tecnologias
 
 <b>As ferramentas utilizadas foram:</b>
@@ -48,10 +52,3 @@ E de consumo de combustíveis:
  - De Litro por 100 quilômetros l/100 km para Milha por galão americano mpg EUA
  - De Quilômetro por litro km/l para Milha por galão americano mpg EUA
  - De Milhas por galão imperial mpg imp para Milha por galão americano mpg EUA
-
-
-<p align="center">
-  <img alt="Badge" src="https://i.imgur.com/sO2IH2O.png" width="50%">
-</p>
-
-
