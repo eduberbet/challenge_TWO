@@ -1,17 +1,3 @@
-<p align="center">
-Challenge desenvolvido para a Formação em Java do Programa ONE. <br/>
-</p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>
-</p>
-<br>
-
-<p align="center">
-  <img alt="Badge" src="https://i.imgur.com/PBCMPzo.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 <b>As ferramentas utilizadas foram:</b>
